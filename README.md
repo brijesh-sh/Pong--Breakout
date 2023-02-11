@@ -1,7 +1,7 @@
 # Assignment #1
 
 ### Student Info
-**Name:**
+**Name:** Brijesh Sharma
 
 ------
 
