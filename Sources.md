@@ -8,7 +8,7 @@ Here are some of my sources for assets:
 * Dunjo tileset by Arks - https://arks.itch.io/dungeon-platform-tileset
 
 
-![alt text](https://github.com/bridges77/CameraCalibration/blob/main/reprojection_error_distribution-1.png)
+![alt text](https://github.com/ACS-3922-main/assignment-1-bridges77/rct.gif)
 
 
 
