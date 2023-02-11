@@ -20,6 +20,7 @@ public class BrickBehaviour : MonoBehaviour
     {
         if (collisionInfo.gameObject.tag == "Ball")
         {
+            //Debug.Log();
             Destroy(gameObject);
             GameObject.Find("UICanvas").GetComponent<UIManager_PartB>().Score();
         }
